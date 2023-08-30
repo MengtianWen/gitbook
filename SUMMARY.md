@@ -15,3 +15,7 @@
 ## AR辅助SDK接入指南
 
 * [✈ 再加一页](ar-fu-zhu-sdk-jie-ru-zhi-nan/zai-jia-yi-ye.md)
+
+***
+
+* [前端代码规则指南](qian-duan-dai-ma-gui-ze-zhi-nan.md)
