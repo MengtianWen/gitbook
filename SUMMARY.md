@@ -14,4 +14,4 @@
 
 ## AR辅助SDK接入指南
 
-* [Page 1](ar-fu-zhu-sdk-jie-ru-zhi-nan/page-1.md)
+* [✈ 再加一页](ar-fu-zhu-sdk-jie-ru-zhi-nan/zai-jia-yi-ye.md)
