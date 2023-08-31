@@ -10,7 +10,8 @@
 
 控制接口：（Assets.cs)
 
-```
+{% code lineNumbers="true" %}
+```java
 //========================================================
 //开启相机
 //========================================================
@@ -31,6 +32,7 @@ public event Action<SRCameraFrame> FrameReceived;
 //========================================================
 public bool TryGetLatestFrame(out SRCameraFrame cameraFrame)
 ```
+{% endcode %}
 
 关于相机数据获取回调的代码，可以参考（Assets.cs)
 
